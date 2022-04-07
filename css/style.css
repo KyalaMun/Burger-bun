@@ -1,0 +1,22 @@
+body{
+    background-image: repeating-linear-gradient(-45deg,#FF9E2D, #FF9E2D 15px, #F2CA50 10px, #F2CA50 30px);
+}
+
+img{
+    height: 220px;
+    width: 200px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+}
+
+main{
+    background-color: #F3F0E7;
+}
+
+h3{
+    font-size: 22px;
+}
+
+a{
+    color: black;
+}
